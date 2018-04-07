@@ -1,4 +1,6 @@
-Description:
+# TrainManager
+
+This program is based off of a Stony Brook University CSE 214 homework, provided by Professor Ahmad Esmaili (https://www.cs.stonybrook.edu/people/faculty/AhmadEsmaili).
 
 This Java program allows the user to use a Linked List to simulate a train and its various traincars. The cursor indicates the
 current train car being selected, and some operations will allow the user to manipulate the train car at the cursor.
